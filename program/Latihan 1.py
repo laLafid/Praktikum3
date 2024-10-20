@@ -43,19 +43,3 @@ print('{0:>3} {1:>16}'.format(7, 10**7))
 print('{0:>3} {1:>16}'.format(8, 10**8))
 print('{0:>3} {1:>16}'.format(9, 10**9))
 print('{0:>3} {1:>16}'.format(10, 10**10))
-
-# Latihan 2
-
-a = input("masukan nilai a: ")
-b = input("masukan nilai b: ")
-
-print("variable a =", a)
-print("variable b =", b)
-print("hasil penggabungan variable {}&{}={}".format(a, b, a+b))
-
-# konversi nilai variable 
-a = int(a)
-b = int(b)
-
-print("hasil penjumlahan {}+{}={}".format(a, b, a+b))
-print("hasil pembagian {}/{}={}".format(a, b, a/b if a != 0 else "undefined"))

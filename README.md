@@ -9,9 +9,13 @@ Di sini, saya akan menjelaskan file-file pengkodean yang ada dalam repositori in
 
 ## Latihan 2
 
+``` 
+a = input("masukan nilai a: ") 
+b = input("masukan nilai b: ") 
+```
 
 ## Mencari yang Terbesar dari 3 Bilangan
 ![#](gambar/3.drawio.png)
 
 ## Mencari yang Terbesar dari N Bilangan
-![alt text](gambar/BilaN.drawio.png)
+![N](gambar/BilaN.drawio.png)
