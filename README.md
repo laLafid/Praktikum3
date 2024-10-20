@@ -103,8 +103,9 @@ Python akan menampilkan nilai variable ```a``` & ```b``` yang baru saja dimasuku
 ```ruby
 print("hasil penggabungan variable {}&{}={}".format(a, b, a+b)) 
 ```
-Python akan menggabungkan 2 variable dan menampilkannya ke pengguna. 
-<small> ini bukanlah penjumlahan <small>
+Python akan menggabungkan 2 variable dan menampilkannya ke pengguna.
+ 
+<sup><sub>ini bukanlah penjumlahan<sub><sup>
 ![fusio](gambar/penggabung.png)
 
 4. Lalu 
