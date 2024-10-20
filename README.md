@@ -97,6 +97,7 @@ print("variable a =", a)
 print("variable b =", b)
 ```
 Python akan menampilkan nilai variable ```a``` & ```b``` yang baru saja dimasukuan oleh Pengguna.
+
 ![tampi](<gambar/print var a.png>)
 
 3. Di sini
@@ -104,8 +105,9 @@ Python akan menampilkan nilai variable ```a``` & ```b``` yang baru saja dimasuku
 print("hasil penggabungan variable {}&{}={}".format(a, b, a+b)) 
 ```
 Python akan menggabungkan 2 variable dan menampilkannya ke pengguna.
- 
+
 <sup><sub>ini bukanlah penjumlahan<sub><sup>
+
 ![fusio](gambar/penggabung.png)
 
 4. Lalu 
@@ -121,6 +123,7 @@ print("hasil penjumlahan {}+{}={}".format(a, b, a+b))
 print("hasil pembagian {}/{}={}".format(a, b, a/b if a != 0 else "undefined"))
 ```
 Python akan melakukan Aritmatika Penjumlahan dan Pembagian yang kemudian akan ditampilkan ke Pengguna.
+
 ![ari](gambar/terakhiran.png)
 
 ## Mencari yang Terbesar dari 3 Bilangan <a name="3B"></a>
@@ -145,6 +148,8 @@ def terbesar(a, b, c):
 ```
 Apakah semua bilangan sama? Jika iya, maka ``` Semuanya sama ``` akan ditampilkan. 
 
+Output:
+
 ![alt text](gambar/Sama.png)
 
 4. Pengecekan ke 2
@@ -154,6 +159,8 @@ Apakah semua bilangan sama? Jika iya, maka ``` Semuanya sama ``` akan ditampilka
         print(f"bilangan terbesar adalah: {terbesar}")
 ```
 Pengecekan akan berlanjut ke tahap ke-2 jika semua bilangan berbeda.
+
+Output:
 
 ![alt text](gambar/beda.png)
 
