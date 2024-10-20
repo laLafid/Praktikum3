@@ -160,7 +160,7 @@ terbesar(a, b, c)
 Gunanya adalah untuk mengeksekusi fungsi tersebut.
 
 Berikut adalah Flowchart untuk Kode ini:
-![Flowchart 3](gambar/#BN.drawio.png)
+![Flowchart 3](gambar/BN.drawio.png)
 
 
 ## Mencari yang Terbesar dari N Bilangan <a name="NB"></a>
