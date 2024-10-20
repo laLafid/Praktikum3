@@ -1,6 +1,6 @@
 # Praktikum3
 
-adanya repositori ini adalah untuk memenuhi tugas yang diberikan kepada saya.
+Adanya repositori ini adalah untuk memenuhi tugas yang diberikan kepada saya.
 
 Di sini, saya akan menjelaskan pengkodean yang ada dalam repositori ini.
 
@@ -24,6 +24,7 @@ print('Y')
 print('Z')
 ```
 ```end=' '``` di sini berfungsi untuk mengganti akhiran ```print()```, yang tadinya membuat baris baru setiap kali digunakan menjadi memberikan spasi setiap kali digunakan.
+
 Hasilnya:
 
 ![end](<gambar/yang pertama.png>)
@@ -38,6 +39,7 @@ print(w,x,y,z,sep=':')
 print(w,x,y,z,sep='-----')
 ```
 ```sep=``` ini akan memberikan pemisah diantara setiap nilai yang akan di cetak.
+
 Hasilnya:
 
 ![separator](gambar/Separato.png)
@@ -75,6 +77,7 @@ print('{0:>3} {1:>16}'.format(9, 10**9))
 print('{0:>3} {1:>16}'.format(10, 10**10))
 ```
 Di sini ```format()``` digunakan untuk mengatur posisi output.
+
 Hasilnya:
 
 ![format](<gambar/String Format.png>)
@@ -200,7 +203,7 @@ Ini untuk mencetak hasil dari perbandingan, dengan mengambil nilai variable ``` 
 
 Hasilnya:
 
-![alt text](gambar/bilN.png)
+![alt text](gambar/hasilNNN.png)
 
 Flowchart untuk Code ini:
 ![Flowchart N](gambar/BilaN.drawio.png)
