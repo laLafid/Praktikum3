@@ -82,7 +82,7 @@ Hasilnya:
 
 ![format](<gambar/String Format.png>)
 
-## Latihan 2 <a name="L2"></a>
+## [Latihan 2](<program/Latihan 2.py>) <a name="L2"></a>
 
 1. Pada bagian ini
 ```ruby
@@ -126,7 +126,7 @@ Python akan melakukan Aritmatika Penjumlahan dan Pembagian yang kemudian akan di
 
 ![ari](gambar/terakhiran.png)
 
-## Mencari yang Terbesar dari 3 Bilangan <a name="3B"></a>
+## [Mencari yang Terbesar dari 3 Bilangan](<program/Terbesar dari 3 Bilangan.py>) <a name="3B"></a>
 
 1. Menginputkan Bilangan 
 ```ruby
@@ -174,7 +174,7 @@ Berikut adalah Flowchart untuk Kode ini:
 ![Flowchart 3](gambar/BN.drawio.png)
 
 
-## Mencari yang Terbesar dari N Bilangan <a name="NB"></a>
+## [Mencari yang Terbesar dari N Bilangan](<program/Terbesar dari N Bilangan.py>) <a name="NB"></a>
 
 1. Inisialisasi Variabel
 ```ruby
