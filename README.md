@@ -58,6 +58,8 @@ print(8, 10**8)
 print(9, 10**9)
 print(10, 10**10)
 ```
+Kode ini fungsinya untuk menkuadratkan bilangan.
+
 Hasilnya:
 
 ![kuadrat](gambar/Kuadrat.png)
@@ -128,6 +130,9 @@ Python akan melakukan Aritmatika Penjumlahan dan Pembagian yang kemudian akan di
 
 ## [Mencari yang Terbesar dari 3 Bilangan](<program/Terbesar dari 3 Bilangan.py>) <a name="3B"></a>
 
+Flowchart untuk Kode ini:
+![Flowchart 3](gambar/BN.drawio.png)
+
 1. Menginputkan Bilangan 
 ```ruby
 a = int(input("bilangan pertama: "))
@@ -170,11 +175,10 @@ terbesar(a, b, c)
 ```
 Gunanya adalah untuk mengeksekusi fungsi tersebut.
 
-Berikut adalah Flowchart untuk Kode ini:
-![Flowchart 3](gambar/BN.drawio.png)
-
-
 ## [Mencari yang Terbesar dari N Bilangan](<program/Terbesar dari N Bilangan.py>) <a name="NB"></a>
+
+Flowchart untuk Kode ini:
+![Flowchart N](gambar/BilaN.drawio.png)
 
 1. Inisialisasi Variabel
 ```ruby
@@ -212,6 +216,3 @@ Ini untuk mencetak hasil dari perbandingan, dengan mengambil nilai variable ``` 
 Hasilnya:
 
 ![alt text](gambar/hasilNNN.png)
-
-Flowchart untuk Code ini:
-![Flowchart N](gambar/BilaN.drawio.png)
