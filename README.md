@@ -11,7 +11,7 @@ Di sini, saya akan menjelaskan pengkodean yang ada dalam repositori ini.
 3. [Terbesar dari 3 Bilangan](#3B)
 4. [Terbesar dari N Bilangan](#NB)
 
-## Latihan 1 <a name="L1"></a>
+## [Latihan 1](<program/Latihan 1.py>) <a name="L1"></a>
 
 1. Penggunaan ```end```
 ```ruby
